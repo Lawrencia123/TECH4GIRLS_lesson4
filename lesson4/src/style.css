@@ -1,0 +1,42 @@
+/* p{
+            background-color: rgb(176, 230, 105);
+            padding: 20px;
+            margin: 10;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 30px;
+            font-weight: 400;
+            font-style: italic;
+            text-transform: capitalize;
+            letter-spacing: 4px;
+            line-height: 50px;
+         
+        } 
+.vacation{
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    justify-content: space-evenly;
+    margin-right: 10px;
+}
+
+.vacation_image{
+    width:100%;
+    border-radius: 50%;
+}
+.vacation_paragraph{
+    width: 100%;
+    background-color: rgb(165, 140, 188);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.vacation_container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.homepage{
+    background-color: bisque;
+}
+.TRYING{
+    
+}
